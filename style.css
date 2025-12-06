@@ -1,0 +1,116 @@
+
+
+
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: #ffffff;
+     display: inline-block;
+     padding: ;
+     
+    
+    
+}
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(29, 27, 172, 64);
+    color: #ffffff;
+     display: inline-block;
+    
+    
+}
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(244, 252, 32);
+    color: #ffffff;
+     display: inline-block;
+
+    
+}
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(158, 24, 117);
+    color: #ffffff;
+     display: inline-block;
+
+    
+}
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(29, 158, 29);
+    color: #ffffff;
+     display: inline-block;
+
+
+    
+}
+  
+
+
+
+.box6{
+    background-image: url(./WhatsApp\ Image\ 2025-11-10\ at\ 14.08.59_31229f42.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+
+    color: aqua;
+    padding: 30%;
+
+
+
+}
+body { 
+    /* display:flex; */
+    justify -content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f3f3f3;
+    font-family: Arial, sans-serif;
+    
+} 
+
+.card {
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    border-radius: 20px;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    margin: auto;
+}
+
+.card h2 {
+    margin-top: 40px;
+    font-size: 26px;
+}
+
+.card p {
+    margin: 20px 0 40px;
+    font-size: 16px;
+}
+
+.card button {
+    padding: 12px 25px;
+    font-size: 16px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+    background: radial-gradient(circle, #ff8a00, #e52e71);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+
+
